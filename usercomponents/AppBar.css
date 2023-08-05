@@ -1,0 +1,27 @@
+/* styles.css */
+.appbar-content {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .appbar-options {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .appbar-option {
+    cursor: pointer;
+    padding: 10px;
+  }
+  
+  .appname-logo {
+    font-weight: bold;
+    font-size: 1.2rem;
+  }
+  
+  .appbar-option-icon {
+    font-size: 1.5rem;
+  }
+  

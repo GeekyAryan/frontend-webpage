@@ -1,0 +1,39 @@
+.paper-bar {
+    background-color: #fff;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .paper-bar-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px 20px;
+  }
+  
+  .app-info {
+    display: flex;
+    align-items: center;
+  }
+  
+  .app-logo {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+  }
+  
+  .app-name {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .app-options {
+    display: flex;
+  }
+  
+  .option {
+    margin-right: 15px;
+    cursor: pointer;
+  }
+  

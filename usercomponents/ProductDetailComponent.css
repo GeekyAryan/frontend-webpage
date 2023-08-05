@@ -1,0 +1,42 @@
+.main-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.quantity-controls {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.quantity-controls span {
+  margin: 0 10px;
+  font-size: 1.2rem;
+}
+
+.add-to-cart,
+.buy-now {
+  margin-top: 10px;
+}
+
+.product-features {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+
+.feature {
+  padding: 5px 10px;
+  margin: 5px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+/* Additional styles for Carousel */
+.carousel {
+  margin-top: 20px;
+}
+
+.carousel .slide {
+  max-height: 400px;
+}
